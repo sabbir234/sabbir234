@@ -1,5 +1,5 @@
 
-<img align="center" alt="Happy Coding" width="100%" src="https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?w=360">
+<img align="center" alt="Happy Coding" width="100%" src="https://s3-eu-west-1.amazonaws.com/blog.forestadmin.com/2022/05/laravel-admin-panels.png">
 ### Hi there 👋, I'm Mehdi Hasan
 #### Web Developer PHP & Laravel
 ![Web Developer PHP & Laravel](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
